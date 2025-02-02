@@ -11,6 +11,10 @@ minify:
   disableXML: true
   minifyOutput: true
 
+module:
+  imports:
+    - path: github.com/divinerites/plausible-hugo
+
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: Michael's Portfolio
@@ -40,7 +44,14 @@ params:
   footer:
     hideFooter: false
     hideCopyright: true
-
+  plausible:
+    enable: true
+    domain: michaelforde.com
+    outbound_link: true
+    file_downloads: false
+    debug: false
+    gitstar: false
+    selfhosted_domain: analytics.techmike.net
   assets:
     disableHLJS: true # to disable highlight.js
     disableFingerprinting: true
