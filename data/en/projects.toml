@@ -1,0 +1,22 @@
+[[projects]]
+title = "Dine U"
+description = ""
+tech = "React Native, Typescript, Python, Node.js, Supabase"
+figma = "https://embed.figma.com/slides/vSUFWIVAWchbc67kZvNqg6/DINE-U-Pitch-Deck?node-id=8-15&embed-host=share"
+image = "/images/projects/dineu.png"
+link = "https://github.com/mkforde/DineU"
+
+[[projects]]
+title = "Penny Pals"
+description = ""
+tech = "EJS, HTML, CSS, JavaScript, Docker, Express, Ollama"
+figma = "https://embed.figma.com/slides/QsjtdLMsh9qRFlgCcgc82i/Penny-Pals-Pitch-Deck?node-id=1-55&embed-host=share"
+image = "/images/projects/pennypals.png"
+link = "https://github.com/ld0rn76/PennyPals"
+
+[[projects]]
+title = "Proxmox Home Server for Web Hosting and Development"
+description = ""
+tech = "Docker, Linux, LXC, ZFS, Reverse Proxy"
+image = "/images/projects/proxmox.png"
+link = ""

@@ -1,0 +1,60 @@
+baseURL = "https://michaelforde.com"
+languageCode = 'en-us'
+title = 'Michael Forde - Portfolio'
+theme = 'hugo-noir'                  # This is the theme you are using
+
+# URL handling
+relativeURLs = true
+canonifyURLs = true
+
+defaultContentLanguage = "en"
+defaultContentLanguageInSubdir = false # Creates URLs like /en/blog/
+
+# Taxonomy configuration
+[taxonomies]
+category = "categories"
+tag = "tags"
+
+[params]
+# Basic profile information - common across languages
+# This is used by the theme for the author name in the footer, social links, etc.
+name = "Michael Forde"
+location = "Columbia University"
+profile_image = "/images/profile.jpg"                                                               # Place in your site's static/images/ directory
+# Social and contact information
+email = "michael.kenneth.forde@gmail.com"
+github = "https://github.com/mkforde"
+github_username = "mkforde"
+linkedin = "https://linkedin.com/in/mkforde"
+linkedin_username = "mkforde"
+# twitter = "https://twitter.com/johndoe"
+# twitter_username = "johndoe"
+# Add other social links as needed by the theme or your content
+# discord = "johndoe#1234"
+# medium = "https://medium.com/@johndoe"
+# leetcode = "https://leetcode.com/johndoe"
+# monkeytype = "https://monkeytype.com/profile/johndoe"
+# kaggle = "https://www.kaggle.com/johndoe"
+
+# Main menu
+[menu]
+[[menu.main]]
+name = "About"
+pageRef = "/about"
+weight = 1
+[[menu.main]]
+name = "Experience"
+pageRef = "/experience"
+weight = 2
+[[menu.main]]
+name = "Projects"
+pageRef = "/projects"
+weight = 3
+[[menu.main]]
+name = "Blog"
+pageRef = "/blogs"
+weight = 4
+[[menu.main]]
+name = "Contact Me"
+pageRef = "/contact"
+weight = 5

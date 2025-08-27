@@ -1,0 +1,56 @@
+# Hugo build output
+public/
+static/
+
+# Hugo cache and temporary files
+.hugo_build.lock
+.hugo_cache/
+
+# Development and editor files
+.vscode/
+.ropeproject/
+*.swp
+*.swo
+*~
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Logs and temporary files
+*.log
+*.tmp
+*.temp
+
+# Environment and configuration files
+.env
+.env.local
+.env.*.local
+
+# Node modules (if using any Node.js tools)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Python cache (if using Python scripts)
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Backup files
+*.bak
+*.backup
+*.old

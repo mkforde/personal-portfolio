@@ -1,0 +1,97 @@
+[[blogs]]
+title = "My First Month at Amazon"
+date = "2025-06-27"
+summary = "From Carnegie Hall to coding in Seattle, I dive into my first month as an Amazon intern — from onboarding chaos and intern events to dogs in the office and biking to work. Here’s a look at what made my first 30 days one to remember."
+tags = ['software-engineering', 'computer-science', 'tech-career']
+link = "https://blog.michaelforde.com/first-month-at-amazon"
+
+[[blogs]]
+title = "Crafting the Ultimate Dev Environment: My Essential Tools & Workflow"
+date = "2025-04-09"
+summary = "A development environment is a programmer's workspace. It consists of CLI tools, applications, IDEs, packages, and other tools that make a developer's work more efficient. As a CS student and aspiring software engineer, my workspace is configured to: 1. Maintain a clean and distraction-free development environment. 2. Utilize powerful terminal and window management tools to maximize productivity...."
+tags = ['software-engineering', 'reference', 'computer-science']
+link = "https://blog.michaelforde.com/ultimate-dev-environment-tools"
+
+[[blogs]]
+title = "Landing an Amazon Internship as an Underclassman: What Actually Worked"
+date = "2025-04-02"
+summary = "Hey blog, it's been a minute! Hope all my readers are doing well and you're surviving the Spring semester whether you're still taking midterms like me or are already prepping for finals. The last month of my life has been filled with awesome successes but also overcoming rejection. I want to share how I landed an Amazon Propel Program SDE..."
+tags = ['software-engineering', 'tech-career', 'columbia-university', 'computer-science', 'diversity-in-tech']
+link = "https://blog.michaelforde.com/amazon-internship-tips"
+
+[[blogs]]
+title = "Music, Code, and Snow: February in NYC"
+date = "2025-02-23"
+summary = "Hi readers! It's been a minute since my last post. A lot of great things have happened in my life this February! Stick around to hear about what's been going on and what's to come. As college students, we all struggle with managing our busy schedules. For me, this was especially true during the weekend of February 7-9, 2025. That..."
+tags = ['student-life', 'personal-growth', 'columbia-university']
+link = "https://blog.michaelforde.com/february-2025-recap"
+
+[[blogs]]
+title = "How to create professional websites quickly with Hugo"
+date = "2025-02-02"
+summary = "I've been experimenting with Hugo, the world's fastest static site generator. My goal is to use Hugo to quickly convert my Markdown notes into websites, allowing me to share my favorite course notes from Columbia University with the world. In the meantime, while I refine my approach, I'm currently using Hugo as a personal portfolio. If you're interested in creating..."
+tags = ['tutorials']
+link = "https://blog.michaelforde.com/create-websites-with-hugo"
+
+[[blogs]]
+title = "Mastering Markdown and Development Tools: A CS Student’s Guide to Efficiency"
+date = "2025-01-25"
+summary = "Markdown: The ultimate dev productivity hack. Transform your notes with simple syntax that beats HTML and word processors. Learn how to create professional documents effortlessly, convert files with ease, and level up your workflow in minutes."
+tags = ['software-engineering', 'computer-science', 'columbia-university', 'tutorials']
+link = "https://blog.michaelforde.com/mastering-markdown"
+
+[[blogs]]
+title = "My Journey to Joining the HeadStart Fellowship"
+date = "2025-01-15"
+summary = "I am beyond excited to share that I have been accepted into the HeadStart Fellowship’s 7th Fellow Cohort! This program represents an incredible opportunity to connect with mentors, engage with industry professionals, and develop both personally and professionally. I wanted to take a moment to reflect on my application experience and share my excitement for what’s to come. How I..."
+tags = ['personal-growth', 'tech-career', 'diversity-in-tech']
+link = "https://blog.michaelforde.com/headstart-fellowship"
+
+[[blogs]]
+title = "Building a Fully Functional Interactive Calculator with Vanilla JavaScript"
+date = "2025-01-11"
+summary = "After recently wrapping up my Etch a Sketch project, I dove into a new challenge—creating a fully functional interactive calculator using nothing but vanilla JavaScript, HTML, and CSS. This project is part of my journey through The Odin Project Foundation Course, where I continue to deepen my understanding of web development concepts while working on fun and practical mini-projects. In..."
+tags = ['Projects']
+link = "https://blog.michaelforde.com/building-a-fully-functional-interactive-calculator-with-vanilla-javascript"
+
+[[blogs]]
+title = "I Built an Etch a Sketch in the Browser 🎨"
+date = "2025-01-07"
+summary = "I just wrapped up a fun mini-project where I built an Etch a Sketch using vanilla JavaScript, HTML, and CSS! It’s a fully interactive drawing tool that you can use directly in the browser. You can adjust the grid size, choose colors, and unleash your creativity—just like the classic toy we all know and love. This project is part of..."
+tags = ['Projects', 'software-engineering']
+link = "https://blog.michaelforde.com/etch-a-sketch"
+
+[[blogs]]
+title = "Odin Project: Building Rock, Paper, Scissors with Vanilla JavaScript"
+date = "2025-01-04"
+summary = "I just wrapped up a mini-project where I built a Rock, Paper, Scissors game using vanilla JavaScript and basic HTML/CSS to play directly in the browser. This is the third-to-last project in the Odin Project Foundations Course. If you’re looking to dive into web development, I highly recommend this course—it's 100% free and self-paced. Best of luck to anyone taking..."
+tags = ['Projects', 'software-engineering', 'computer-science']
+link = "https://blog.michaelforde.com/rock-paper-scissors"
+
+[[blogs]]
+title = "Rethinking New Year’s Resolutions: The Power of Personal Goals"
+date = "2025-01-02"
+summary = "Happy new year to all my readers! I hope everyone is enjoying time with family and friends. Whether you are skiing down a mountain (what I should be doing about now), in the tropics, or just chilling at home: I hope you’re enjoying this much needed break from school or work. I disagree with the idea of new year’s resolutions..."
+tags = ['personal-growth', 'software-engineering', 'computer-science']
+link = "https://blog.michaelforde.com/new-years-resolutions"
+
+[[blogs]]
+title = "Fresh Start: Reflection on First-Semester at Columbia"
+date = "2024-12-20"
+summary = "Well, first-semester of freshman year just finished over. My experience at Columbia University so far has been amazing..."
+tags = ['student-life', 'columbia-university', 'personal-growth']
+link = "https://blog.michaelforde.com/navigating-final-exams"
+
+[[blogs]]
+title = "About Me"
+date = "2024-12-10"
+summary = "Welcome to Michael’s Tech Blog! I’m Michael, a student at Columbia University pursuing a degree in Computer Science with the goal of becoming a software engineer. This blog is where I share my journey as a CS major, offer insights into the world of technology, and explore topics that I’m deeply passionate about, including diversity in tech. My Journey From..."
+tags = []
+link = "https://blog.michaelforde.com/about"
+
+[[blogs]]
+title = "Welcome to my blog!"
+date = "2024-12-10"
+summary = "This is Michael's Tech Blog, I write content about being a student at Columbia University, my journey as a CS major and aspiring software engineer. I plan to write content on diversity in technology and self-hosting and tech tips! If you want to keep up with my posts, feel free to subscribe to the newsletter!"
+tags = ['News']
+link = "https://blog.michaelforde.com/welcome"

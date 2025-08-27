@@ -1,0 +1,31 @@
+[[experience]]
+company = "Amazon"
+role = "Software Engineer Intern"
+period = "May 2025 - August 2025"
+description = "Conducted a cross-cloud Kubernetes benchmarking study on the AWS Benchmarking team, deploying infrastructure with Pulumi and analyzing performance across AWS, GCP, and Azure."
+responsibilities = [
+    "Developed a cross-cloud **Kubernetes** system with **Pulumi (Python)** for AWS, GCP, and Azure, cutting deployment time by **75%** and standardizing environments",
+    "Built an end-to-end **Kubernetes** benchmarking tool, generating **12,000+ data points** and analyzing performance trends with **pandas** and **NumPy**",
+    "Delivered **six service improvement recommendations** in an **18-page report** to **AWS EKS/ECR principal engineers**, influencing product enhancements",
+]
+
+[[experience]]
+company = "AI4ALL Ignite Accelerator"
+role = "Machine Learning Fellow"
+period = "May 2025 - August 2025"
+description = "Developed an ESG-focused investing assistant with a full-stack dashboard and machine learning models emphasizing fairness and explainability."
+responsibilities = [
+    "Led the development of a machine learning-based ESG investing assistant with a full-stack dashboard using **FastAPI**, **Supabase**, **React**, and the **Gemini API** for AI insights, along with **yfinance** for real-time stock data",
+    "Developed data pipelines and modeling strategies to ensure investment recommendations aligned with ESG principles, incorporating fairness and explainability into the system design.",
+]
+
+[[experience]]
+company = "Preuss Lab, Hunter College"
+role = "Computational Research Assistant"
+period = "June 2022 - June 2024"
+logo = "/images/company/lorem.png"
+description = "Conducted behavioral neuroscience research using computer vision to study zebrafish group dynamics."
+responsibilities = [
+    "Conducted experiments with idtracker.ai, a Python-based AI model, using **TensorFlow** and **OpenCV** to analyze the collective behavior of 10 zebrafish",
+    "Processed and analyzed data with **Jupyter Notebook**, **NumPy**, **Matplotlib**, and **trajectorytools**, identifying behavior patterns",
+]

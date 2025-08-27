@@ -1,0 +1,19 @@
+[author]
+name = "Michael Forde"
+location = "New York City"
+description = "Software Engineer | Computer Science @Columbia University"
+profile_image = "/images/profile.jpg"                                                               # Place in your site's static/images/ directory
+# Social and contact information
+email = "michael.kenneth.forde@gmail.com"
+github = "https://github.com/mkforde"
+github_username = "mkforde"
+linkedin = "https://linkedin.com/in/mkforde"
+linkedin_username = "mkforde"
+# twitter = "https://twitter.com/johndoe"
+# twitter_username = "johndoe"
+# Add other social links as needed by the theme or your content
+# discord = "johndoe#1234"
+# medium = "https://medium.com/@johndoe"
+# leetcode = "https://leetcode.com/johndoe"
+# monkeytype = "https://monkeytype.com/profile/johndoe"
+# kaggle = "https://www.kaggle.com/johndoe"
