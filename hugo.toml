@@ -1,7 +1,7 @@
 baseURL = "https://michaelforde.com"
 languageCode = 'en-us'
 title = 'Michael Forde - Portfolio'
-theme = 'hugo-noir'                  # This is the theme you are using
+theme = ['hugo-noir']                  # This is the theme you are using
 
 # URL handling
 relativeURLs = true
@@ -35,6 +35,18 @@ linkedin_username = "mkforde"
 # leetcode = "https://leetcode.com/johndoe"
 # monkeytype = "https://monkeytype.com/profile/johndoe"
 # kaggle = "https://www.kaggle.com/johndoe"
+
+
+[module]
+   [[module.imports]]
+   path = "github.com/divinerites/plausible-hugo"
+
+[params.plausible]
+enable = true
+domain = "michaelforde.com"
+outbound_link = true
+gitstar = false
+selfhosted_domain = "analytics.techmike.net"
 
 # Main menu
 [menu]

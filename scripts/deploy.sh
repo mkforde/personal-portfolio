@@ -7,7 +7,7 @@ set -euo pipefail
 REMOTE_USER="root"
 REMOTE_HOST="caddy"
 REMOTE_BASE="/etc/caddy/site-data/portfolio"
-LOCAL_PUBLIC="../public"
+LOCAL_PUBLIC="public"
 
 # Number of old releases to keep
 KEEP=3
