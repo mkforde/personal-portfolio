@@ -6,7 +6,6 @@ cmds = [
   # extract and install
   "tar -xzf hugo.tar.gz",
   "mv hugo /usr/local/bin/hugo",
-  "hugo version"
 ]
 
 [phases.build]
