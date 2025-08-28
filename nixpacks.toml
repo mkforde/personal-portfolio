@@ -9,7 +9,7 @@ cmds = [
 ]
 
 [phases.build]
-cmds = ["hugo --minify"]
+cmds = ["/usr/local/bin/hugo --minify"]
 
 [environment]
 HUGO_VERSION = "0.149.0"
