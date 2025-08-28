@@ -1,7 +1,12 @@
 [phases.setup]
-aptPkgs = ["hugo"]
 cmds = [
-  "git submodule update --init --recursive"
+  # download Hugo tarball
+  "curl -L -o hugo.tar.gz https://github.com/gohugoio/hugo/releases/download/v0.149.0/hugo_extended_withdeploy_0.149.0_linux-amd64.tar.gz",
+  
+  # extract and install
+  "tar -xzf hugo.tar.gz",
+  "mv hugo /usr/local/bin/hugo",
+  "hugo version"
 ]
 
 [phases.build]
