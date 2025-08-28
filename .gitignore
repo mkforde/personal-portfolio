@@ -1,6 +1,5 @@
 # Hugo build output
 public/
-static/
 
 # Hugo cache and temporary files
 .hugo_build.lock
